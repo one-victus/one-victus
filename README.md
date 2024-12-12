@@ -1,6 +1,6 @@
-# Un gusto, pase adelante estoy construyendo :construction::construction_worker:
+# Un gusto, pase adelante que estoy construyendo :construction::construction_worker:
 
-Entusiasta, curioso, y apasionado por el desarrollo web :computer::sunglasses:
+Entusiasta, curioso, y apasionado por el desarrollo web :computer:
 
 ## Tecnologías que utilizo :technologist:
 
@@ -18,7 +18,6 @@ Entusiasta, curioso, y apasionado por el desarrollo web :computer::sunglasses:
 
 ## Estoy explorando... :dart:
 
-- Tailwind
 - TypeScript
 - React.js
 - Next.js
