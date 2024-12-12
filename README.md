@@ -1,16 +1,31 @@
-## Hi there 👋
+# Un gusto, pase adelante estoy construyendo :construction::construction_worker:
 
-<!--
-**one-victus/one-victus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entusiasta, curioso, y apasionado por el desarrollo web :computer::sunglasses:
 
-Here are some ideas to get you started:
+## Tecnologías que utilizo :technologist:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- SASS
+- Bootstrap
+- JavaScript
+- PHP
+- Laravel
+- ASP / .NET
+- GitHub Copilot
+- Linux - Ubuntu / macOS / Windows 11
+- Warp terminal
+
+## Estoy explorando... :dart:
+
+- Tailwind
+- TypeScript
+- React.js
+- Next.js
+- Python
+- Cursor
+- IA
+
+## Contáctame :handshake:
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fone-victus&up_message=Open&up_color=%23ffffff&down_message=Open&down_color=%23ffffff&logo=linkedin&label=LinkdIn&labelColor=%230A66C2)
