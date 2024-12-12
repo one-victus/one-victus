@@ -28,4 +28,4 @@ Entusiasta, curioso, y apasionado por el desarrollo web :computer::sunglasses:
 
 ## Contáctame :handshake:
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fone-victus&up_message=Open&up_color=%23ffffff&down_message=Open&down_color=%23ffffff&logo=linkedin&label=LinkdIn&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fone-victus)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fone-victus&up_message=Open&up_color=%23ffffff&down_message=Open&down_color=%23ffffff&logo=linkedin&label=LinkdIn&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fone-victus)](https://www.linkedin.com/in/one-victus)
